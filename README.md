@@ -1,3 +1,3 @@
 # hello-world
-Aprendiendo a usar github:)
-Me gusta dibujar
+Aprendiendo a usar github:) y
+ Me gusta dibujar
